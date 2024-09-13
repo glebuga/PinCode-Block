@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practice 2024</string>
+    <string name="set_pin">Set the PIN code to log in</string>
+    <string name="cancel">Cancel</string>
+    <string name="face_id_description" translatable="false">Face ID</string>
+    <string name="repeat_pin">Repeat the PIN code</string>
+    <string name="pin_mismatch">The PIN codes do not match</string>
+    <string name="valid_pin">Successfully!</string>
+    <string name="pin_set_success">The PIN code has been confirmed</string>
+    <string name="enter_pin">Enter the PIN code</string>
+    <string name="delete_last_digit">Delete the last digit</string>
+    <string name="cant_sign_in">Can\'t get in?</string>
+    <string name="use_face_id_question">Should I use a Face ID?</string>
+    <string name="use_face_id_info">You can\\n use Face ID to log in to the app</string>
+    <string name="use">Use</string>
+    <string name="biometric_auth_title">Biometric authentication</string>
+    <string name="biometric_auth_subtitle">Use your fingerprint or camera to authenticate</string>
+</resources>

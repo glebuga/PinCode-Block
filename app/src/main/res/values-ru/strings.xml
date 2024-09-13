@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practice 2024</string>
+    <string name="set_pin">Установите ПИН-код для входа</string>
+    <string name="repeat_pin">Повторите ПИН-код</string>
+    <string name="pin_mismatch">Пин-коды не совпадают</string>
+    <string name="valid_pin">Успешно!</string>
+    <string name="pin_set_success">ПИН-код подтверждён</string>
+    <string name="enter_pin">Введите ПИН-код</string>
+    <string name="delete_last_digit">Удалить последнюю цифру</string>
+    <string name="cant_sign_in">Не можете войти?</string>
+    <string name="use_face_id_question">Использовать Face ID?</string>
+    <string name="use_face_id_info">Для входа в приложение вы можете использовать Face ID</string>
+    <string name="use">Использовать</string>
+    <string name="biometric_auth_title">Вход в Zabot</string>
+    <string name="biometric_auth_subtitle">Используйте отпечаток пальца или камеру для аутентификации</string>
+    <string name="cancel">Отмена</string>
+</resources>
