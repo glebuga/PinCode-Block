@@ -39,7 +39,7 @@
 
 ## 🖼 Скриншоты/Gif
 ![image](https://github.com/user-attachments/assets/f5538787-a5bc-4723-b8d7-badd18cbc8af)
-https://github.com/user-attachments/assets/bb7d950a-7852-4782-92fa-4b060a4a3ad3
+![gif](https://github.com/user-attachments/assets/bb7d950a-7852-4782-92fa-4b060a4a3ad3)
 
 
 
